@@ -1,0 +1,9 @@
+C:\Users\Charly\source\repos\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Charly\source\repos\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Charly\source\repos\ENTITY\bin\Debug\ENTITY.xml
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.Resources.resources
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.vbproj.GenerateResource.cache
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.vbproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.xml
+C:\Users\Charly\source\repos\ENTITY\obj\Debug\ENTITY.pdb

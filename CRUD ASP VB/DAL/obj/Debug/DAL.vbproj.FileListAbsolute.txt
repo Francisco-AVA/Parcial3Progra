@@ -1,0 +1,28 @@
+C:\Users\Charly\source\repos\DAL\bin\Debug\DAL.dll
+C:\Users\Charly\source\repos\DAL\bin\Debug\DAL.pdb
+C:\Users\Charly\source\repos\DAL\bin\Debug\DAL.xml
+C:\Users\Charly\source\repos\DAL\bin\Debug\ENTITY.dll
+C:\Users\Charly\source\repos\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Charly\source\repos\DAL\bin\Debug\ENTITY.xml
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.dll
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.xml
+C:\Users\Charly\source\repos\DAL\obj\Debug\DAL.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\DAL.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\DAL.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\DAL.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\ENTITY.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\bin\Debug\ENTITY.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\DAL\obj\Debug\DAL.pdb

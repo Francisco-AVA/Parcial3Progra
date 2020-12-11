@@ -1,0 +1,34 @@
+C:\Users\Charly\source\repos\BLL\bin\Debug\BLL.dll
+C:\Users\Charly\source\repos\BLL\bin\Debug\BLL.pdb
+C:\Users\Charly\source\repos\BLL\bin\Debug\BLL.xml
+C:\Users\Charly\source\repos\BLL\bin\Debug\DAL.dll
+C:\Users\Charly\source\repos\BLL\bin\Debug\ENTITY.dll
+C:\Users\Charly\source\repos\BLL\bin\Debug\DAL.pdb
+C:\Users\Charly\source\repos\BLL\bin\Debug\DAL.xml
+C:\Users\Charly\source\repos\BLL\bin\Debug\ENTITY.pdb
+C:\Users\Charly\source\repos\BLL\bin\Debug\ENTITY.xml
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.dll
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.xml
+C:\Users\Charly\source\repos\BLL\obj\Debug\BLL.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\BLL.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\BLL.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\BLL.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\DAL.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\ENTITY.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\DAL.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\DAL.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\ENTITY.pdb
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\bin\Debug\ENTITY.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.dll
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.xml
+C:\Users\Charly\Desktop\ASP VB\CRUD ASP VB\BLL\obj\Debug\BLL.pdb
